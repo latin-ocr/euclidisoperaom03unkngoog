@@ -1,0 +1,38 @@
+ELEMENTORUM LIBER IX. 391
+
+uenti suni primi numeri A, Β, Γ, ΕΖ plures numeris
+A, Β, Γ. aarum ne sit ΒΖ primus. itaque primus
+aliquis numerus eum metitur [VII, 31]. metiatur pri-
+mus numerus H. dico, numerum H nulli numerorum
+A, Β, Γ aequalem essa. nam si fieri potest, aii. uerum
+A, Β, Γ numerum ΔΕ metiuntur. itaque etiam H
+numerum ΔΕ metitur. uerum etiam numerum EZ
+metitur. quare etiam1) quae relinquitur, unitatem ΔΖ
+metietur H, qui numerus est3 quod absurdum est. ergo
+H nulli numerum A, Β, Γ aequalis ast. et supposi-
+tum est, H primum essa ergo inuenti aunt primi
+numeri A, B, Γ, Η plures data multitudine A, B, Γ;
+quod arat demonstrandum.
+
+XXI.
+
+Si quotlibet numeri pares componuntur, totus
+par erit.
+
+Componantur enim quotlibet numeri pares AB,
+ΒΓ, ΓΔ, ΔΕ. dico, etiam totum ΑΒ param esse.
+
+A Β Γ Δ Ε
+ι--ι--ι--ι-η-ι
+
+nam quoniam singuli numeri AB, ΒΓ, ΓΔ, ΔΕ
+pares suni, partam dimidiam habent [VII def. 6].
+quare eiiam totus ΑΕ partem dimidiam habet. par
+auiam numerus is est, qui in duas partes aequales
+diuiditur [id.]. ergo ΑΒ par est3 quod erat demon· ἶ
+strandum.
+
+1) U. ad Vll, 28.
+
+ 
+

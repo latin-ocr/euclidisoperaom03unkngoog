@@ -1,0 +1,43 @@
+ELEtOENTORUM LIBER 111. 177
+
+Ergo si in circulo duae rectae inter se secant uon
+per centrum ductae, induas partes aequales inter se
+non secant3 quod erat demonstrandum.
+
+V.
+
+Si duo circuli inter se secant, non habebunt idem
+centrum.
+
+nam duo circuli ΑΒΓ, ΓΔΗ
+inter se secent in punctis Β,Γ. dico,
+· eos idem centrum habituros non
+
+nam si fieri potest, sit E, et ducatur ΕΓ, et edn-
+catur ΕΖΗ utcunque. et quoniam E punctum cen·
+trum est circuli ΑΒΓ, erit EP= ΕΖ. rursus quo
+niam punctum E centrum est circuli ΓΔΗ, erit
+EF= ΕΗ. sed demonstratum est otiam EP= ΕΖ.
+itaquo etiam ΕΖ = ΕΗ, minor maiori3 quod fieri
+non potest. itaque punctum Ε centrum circulorum
+ΑΒΓ, ΓΔΗ non est.
+
+Ergo si duo circuli inter se secant, nou habebunt
+idem centrum3 quod erat demonstrandum.
+
+VI.
+
+si duo circuli inter se contingunt, non habebunt
+idem centrum. ¹)
+
+1) Euclides eum casum, quo circuli intra contingunt,
+ut obscuriorem sibi demonstrandum sumpsit3 nam ubi circuli
+extrinsecuss contingunt, propositio per se patet. ceterum
+demonstratio uclidis dehoc quoquo casu ualet. quare ἐντός
+lin. 22 mera interpolatio est, ut etiam e codicum ratione ad-
+paret (om. Campanus).
+
+Eucliden, odd. Hciberg et Mense. · 12
+
+ 
+

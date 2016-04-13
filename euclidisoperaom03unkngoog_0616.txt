@@ -1,0 +1,43 @@
+ELEMENTORUM LIBER VII. 243
+
+singuli ad singulos primi sint, et sit
+Axn=arxn=a
+dieo, etiam E, Ζ inter se primos esse.
+
+Αι l Γι--ι
+Βι--ι Δ l--—-l
+ι
+ι
+
+nam quoniam uterque A, B ad Γ primus est, etiam
+A ><Β ad Γ primus erit [prop. XXIV] sed A >< B == Ε.
+quare E, Γ inter se primi sunt. eadem de eausa
+etiam Ε, Δ inter se primi sunt. itaque uterque Γ, Δ
+ad E primus est. itaque etiam Γ>< Δ ad E primus
+erit. sed Γ ><Δ = Z. ergo E, Z inter se primi
+sunt; quod erat demonstrandum.
+
+XXVII.
+
+si duo numeri inter septimi sunt, et uterque se
+ipse multiplicans numerum aliquem effecerit, numeri
+ex iis effecti inter se primi erunt, et si numeri ab
+initio sumpti numeros productos multiplicantes numeros
+aliquos effecerint, ii quoque inter se primi erunt [et
+semper in extremis 1) hoo accidit}
+
+1) ἄκροι hoe loeo satis insolenter positum est neque
+enim aliud significat nisi= ultimos, ultimo loeo productos.
+praeterea mirum est, hae'o uerba in demonstratione ne uerbo
+quidem respici, nedum demonstrentur. quare pute, uerba καὶ
+αεὶ περὶ τους ἄκρους τοῦτο συμβαίνει lin. 20-21 ante Thoonem
+interpolata esse3 omisit Campanus VII, 28 (sed in demonstra-
+tione addit: sioque si infinitior duceretur utrumqne producto-
+rum in snum principium, essent omnes producti eontra se
+pgimth et agn solum, sed quilibet ednotus ab a ad quemlibet
+eno uma t.
+
+16*
+
+ 
+

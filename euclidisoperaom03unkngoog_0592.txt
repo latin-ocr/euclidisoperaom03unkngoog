@@ -1,0 +1,37 @@
+mnunuronuu uranu vn. 219
+
+· Sint quattuor numeri proportionales A, Β, Γ, Δ,
+ita ut ait A ε Β == Γε Δ. dieo, eese etiam permutatim
+A ε Γ = Β t A.
+
+A uam quoniam ost A: Β = Γε A, quae
+
+uel partes erit etiam Γ numeri A [def. 20].
+A itaque permutatim quae pers uel partes
+
+· · ¹ para uel partes ost A numeri Β, eadem pare
+
+Β est A numeri Γ, eadem pars uel partae
+Γ eet etiem Β numeri A [prop. X]. ergo
+’ · A : Γ = Β z A [def. 20]; quod eret de-
+
+monstrandum.
+
+XIV.
+
+Si quotlibet numeri dati suut et alii iis numero
+aequales bini simul ooniunoti et in eadem proportione,
+etiem ex aequo in eadem proportione erunt.
+
+Sint quotlibet numeri A, Β, Γ et alii iis numero
+aequales bini simul ooniunoti in eadem proportione
+
+A, E, Z, ita ut sit A:B=A:E et Mam.
+dieo, esso etiam ex aequo A z Γ = A: Z.
+nam quoniam est A113== A : Β, permutatim erit
+A z A = Β :E [prop. XIII} rursus quoniam eet
+Β : Γ = E: Z,
+permutatim erit BtE ει· Γ :Z [id.]. sed 13:13- A t A.
+
+ 
+
